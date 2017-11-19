@@ -156,7 +156,7 @@ venv.bak/
 .mypy_cache/
 
 # local scripts
-.scripts/
+scripts/
 
 # Idea folder
 .idea/
